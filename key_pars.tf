@@ -1,7 +1,0 @@
-resource "aws_key_pair" "douglas-acesso" {
-  key_name   = "douglas-acesso"
-  public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDL5frdrRkKDJY2npSeVKMNxXDrnxjzdiI+22gr6gD4YWIqKV6VWNbphMPIzquHR02n2QRUdqSQnSo2l2GwSz39qqTdB5bzx8enyxovYlmzrcMYhy9gYZtPejBmFomexicstLdokmS9Ghi4XJLLvu+/f/zmrEcyFNxCinHYrTITTt7+t54HNPPn0mE3ehmQuDfRNJOMNh12fqwFRC4neJynTOlwsGpGYEQCgek35V4yVzbDYnLRZJ9bpnydhnJHhSYbaaoiUBc7lUwLnLOoNJ564+SBxWdkS0sa50f1NBDCz8/Ti+0VaDPMr4TRm1HiFn2XiKJF8xCEcY8z3ejxOjmAmxOa1Csha80yYHntTtfaI7/D0zpat5ebYhvXfyDGUTXks294uu6eoshAI2OntoU1v/QUvi+gV5wMKnFDc1re9FDdbzqpGfdkB9K4OecZ7KVcm1yOLKmaJ6VwiERtEPen/f3wwvVvxpWpUhN3I7KghMHAHtGccY3mlJLEiqGt3Uk= douglasrocha06@LP1375"
-  tags = {
-    "Name" = "douglas-acesso"
-  }
-}
