@@ -13,7 +13,7 @@
 #### Principais recursos utilizados na AWS.
 - Criação de VPC.
 - NAT Gateway.
-- Internat Gateway.
+- Internet Gateway.
 - Criação de Subnets.
 - Routes table (public e private).
 - Bastion Host.
